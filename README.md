@@ -1,0 +1,8 @@
+## Reflection on Assignment:
+
+
+In this assignment, I learned a great deal about working with CSV files and pandas DataFrames, particularly how they allow for efficient data handling and analysis. I gained hands-on experience reading data from CSV files into a DataFrame, which made it much easier to manipulate and filter data based on specific conditions. One of the key techniques I developed was learning to filter rows and calculate aggregate statistics, such as finding the top players by various performance metrics. These skills are incredibly valuable for future projects, especially when working with large datasets, as pandas provides the necessary flexibility to analyze and transform the data.
+
+The most challenging aspect of the assignment was managing complex filtering conditions and ensuring that the data was sorted and displayed as intended. For instance, accurately determining the top performers across various metrics required careful filtering and sorting, which occasionally led to issues when chaining multiple operations. To overcome this, I made use of pandas documentation and experimented with different approaches, such as breaking down the operations into smaller steps and verifying results along the way. This methodical approach helped me troubleshoot and fix any issues more efficiently.
+
+The insights gained from analyzing ACC basketball statistics can be applied to a variety of real-world datasets. For example, similar techniques could be used to evaluate employee performance, patient outcomes, or product sales in different industries. By mastering these data manipulation techniques, I feel more prepared to tackle future data science challenges and draw meaningful conclusions from complex datasets in various fields.
